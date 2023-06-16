@@ -1,0 +1,6 @@
+each key has a down and up function, that way they can be looped and executed instead of having to write a giant if chain
+put the entire thing in a World class
+
+
+add animations
+add gouraud (?)
